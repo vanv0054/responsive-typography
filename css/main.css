@@ -51,6 +51,14 @@ blockquote {
   color: #999;
 }
 
+article p {
+  margin-bottom: 1.3rem;
+}
+
+article ol {
+  margin-bottom: 1.3rem;
+}
+
 @media only screen and (min-width: 38em) {
 
 
