@@ -73,10 +73,18 @@ body {
   margin-right: 1rem;
 }
 
+article ol {
+
+}
+
 article p {
 
 }
 
-article ol {
+article header p {
+  margin-top: -18px;
+}
 
+article > p:last-child {
+  padding-bottom: 25px;
 }
