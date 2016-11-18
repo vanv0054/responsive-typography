@@ -73,6 +73,9 @@ article ol {
   margin-bottom: 1.4rem;
   }
 
+  blockquote {
+    margin-left: 70px;
+  }
 
 
 }
