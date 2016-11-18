@@ -33,10 +33,12 @@ article header {
 
 article header p {
   font-style: italic;
+  margin-top: -18px;
 }
 
 article > p:last-child {
   border-bottom: 1px solid #999;
+  padding-bottom: 25px;
 }
 
 blockquote {
@@ -71,20 +73,4 @@ body {
   margin: 0;
   margin-left: 1rem;
   margin-right: 1rem;
-}
-
-article ol {
-
-}
-
-article p {
-
-}
-
-article header p {
-  margin-top: -18px;
-}
-
-article > p:last-child {
-  padding-bottom: 25px;
 }
