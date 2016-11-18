@@ -69,6 +69,8 @@ blockquote {
 
 body {
   margin: 0;
+  margin-left: 1rem;
+  margin-right: 1rem;
 }
 
 article p {
