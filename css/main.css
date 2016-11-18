@@ -31,6 +31,14 @@ article header {
   border-bottom: 1px solid #999;
 }
 
+article p {
+  margin-bottom: 1.3rem;
+}
+
+blockquote p {
+  margin-left: -46px;
+}
+
 article header p {
   font-style: italic;
   margin-top: -18px;
@@ -51,17 +59,11 @@ blockquote {
   color: #999;
 }
 
-article p {
-  margin-bottom: 1.3rem;
-}
 
 article ol {
   margin-bottom: 1.3rem;
 }
 
-blockquote p {
-  margin-left: -46px;
-}
 
 @media only screen and (min-width: 38em) {
 
